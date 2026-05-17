@@ -7,7 +7,7 @@
 > 🧠 **AI-driven social wellness landing page** – built in 3 days using AI-assisted development.  
 > A task that traditionally requires 2+ years of CS training was completed by a data science student leveraging modern AI tools.
 
-🌐 **Live Site:** [Add your deployed MkDocs site link here]
+🌐 **Live Site:** https://chipang1471.github.io/linkuphk-landing/
 
 ---
 
